@@ -1,0 +1,15 @@
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Geometry.MainPaint.resources
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Geometry.Paint.resources
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Geometry.csproj.GenerateResource.Cache
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\Geometry\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\4 сем\КСиС\лабы\WindowsFormsApplication1\Geometry\bin\Debug\Geometry.exe.config
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\obj\Debug\Geometry.Paint.resources
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\obj\Debug\Geometry.csproj.GenerateResource.Cache
+D:\учёба\2 курс\4 сем\КСиС\лабы\Geometry\Geometry\obj\Debug\Geometry.FMain.resources
